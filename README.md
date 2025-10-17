@@ -39,6 +39,8 @@ CryptoHub/
 ├── script.js
 └── images/
 
+You can view the live version of this project here:  
+[CryptoHub Live Site](https://patrick-gif955.github.io/crypto-hub/)
 Author
 
 Patrick Newton Ezurike
